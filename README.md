@@ -46,15 +46,6 @@ Smart job-application tracker and AI job-hunting assistant. Track applications t
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJ-Dev-SE&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top languages" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MJ-Dev-SE&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-</p>
-
----
-
 ## 🌱 Currently
 
 - Building out **Budget Watch PH** — moving the curated dataset behind a real API
