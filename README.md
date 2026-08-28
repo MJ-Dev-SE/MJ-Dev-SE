@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm MJ 👋</h1>
+<h1 align="center">Hi, I'm Mark Jerohm Castro 👋</h1>
 
 <p align="center">
-  <b>Software Developer</b> · Web &amp; Mobile · Philippines 🇵🇭
+  <b>Web &amp; Mobile Developer</b> · React · TypeScript · React Native · Philippines 🇵🇭
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ Smart job-application tracker and AI job-hunting assistant. Track applications t
 ## 📫 Get in touch
 
 - 📧 **markjerohm@gmail.com**
-- 💼 LinkedIn — *coming soon*
-- 🌐 Portfolio — *coming soon*
+- 💼 **LinkedIn** — [mark-jerohm-castro](https://www.linkedin.com/in/mark-jerohm-castro-68b3b03b7)
+- 🌐 **Portfolio** — [dev-mj-t4q8.vercel.app](https://dev-mj-t4q8.vercel.app/)
 
 <p align="center"><i>Open to opportunities — feel free to reach out.</i></p>
