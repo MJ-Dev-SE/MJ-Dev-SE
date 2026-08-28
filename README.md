@@ -49,7 +49,7 @@ Smart job-application tracker and AI job-hunting assistant. Track applications t
 ## 🌱 Currently
 
 - Building out **Budget Watch PH** — moving the curated dataset behind a real API
-- Shipping a **mobile app** (repo coming to this account soon)
+- Shipping a **mobile app** — living on a separate account for now
 - Going deeper on **Supabase**, **RLS/Postgres** and **React Native**
 
 ---
